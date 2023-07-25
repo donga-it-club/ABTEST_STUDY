@@ -39,12 +39,14 @@
 - OT: 스터디 개요 소개 및 규칙 회의
 - 교재: 1부 01 소개와 동기
   - 발표자: 권미정-[발표자료](https://mjrecord.tistory.com/39), [발표영상](https://drive.google.com/file/d/1HRdzfovI0KKQbdufvzHbcoBZYTWvKAhb/view?usp=sharing)
+  - 참여자: 권미정, 김준모, 이유림, 주은진, 천혜지, 최승현
   - 퀴즈: 최승현+1
 
 ### 2주차(23.07.04)
 - 교재: 1부 02 실험의 실행과 분석(엔드-투-엔드 예제), 03 트위먼의 법칙과 실험의 신뢰도
   - 발표자: 주은진-[발표자료1](https://yozm.wishket.com/magazine/detail/1088/), [발표자료2](https://dunedine.tistory.com/22), [발표영상1](https://drive.google.com/file/d/1rdMT2Rx7GyWqrXvofvUFpsNizC0YIiP6/view?usp=sharing), [발표영상2](https://drive.google.com/file/d/1sv-y5VCEFqe5Yva-bgTn3rJcE2AJSdVl/view?usp=sharing)
   - 발표자: 천혜지-[발표자료](https://cheonhyeji99.tistory.com/3), [발표영상](https://drive.google.com/file/d/13fOMnZFehfyaIRILY4j0iR2OniidYFfF/view?usp=sharing)
+  - 참여자: 권미정, 이유림, 주은진, 천혜지, 최승현
   - 퀴즈: 이유림+1, 권미정+1, 최승현+1
 
 ### 3주차(23.07.18)
@@ -52,12 +54,14 @@
   - 발표자: 이유림-[발표자료](https://rimi01.tistory.com/5), [발표영상](https://drive.google.com/file/d/13KPFLqNMxt6dmV0Hu68va4_-EDRPiUaI/view?usp=sharing)
   - 발표자: 최승현-[발표자료](https://vulter3653.tistory.com/59), [발표영상](https://drive.google.com/file/d/1hJjTTea5mnUHoKMq6t88oDSQmOmx7ExE/view?usp=sharing)
   - 발표자: 권미정-[발표자료](https://mjrecord.tistory.com/40), [발표영상](https://drive.google.com/file/d/1FiJu-2QJJjq0nHw1_RZWQQQ20DyDSUNz/view?usp=sharing)
+  - 참여자: 권미정, 이유림, 주은진, 천혜지, 최승현
   - 퀴즈: 주은진+3, 천혜지+2, 최승현+1
 
 ### 4주차(23.07.25)
 - 교재: 2부 05 속도의 중요성:엔드-투-엔드 사례 연구, 06 조직 운영을 위한 지표
   - 05 발표자: 주은진-[발표자료](https://dunedine.tistory.com/23), [발표영상](https://drive.google.com/file/d/12VdGB0SOIleEBC9yBLOKcav1hOF5tZsN/view?usp=sharing)
   - 06 발표자: 권미정-[발표자료](https://mjrecord.tistory.com/41), [발표영상](https://drive.google.com/file/d/1f_8JSkhdXIX9Q8Aimd1zKf9eCMMmIj0T/view?usp=sharing)
+  - 참여자: 권미정, 이유림, 주은진, 최승현
   - 퀴즈: 최승현+4, 이유림+1, 주은진+1
 
 ### 5주차(23.08.01)
