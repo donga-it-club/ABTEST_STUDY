@@ -5,9 +5,9 @@
 - 권미정(리더/데이터분석가 지망) [블로그](https://mjrecord.tistory.com/)
 - 주은진(데이터분석가 지망) [블로그](https://dunedine.tistory.com/)
 - 최승현(MLops 엔지니어 지망) [블로그](https://vulter3653.tistory.com/)
-- 김준모 (데이터분석가 지망/1주차까지 참여) [블로그](https://junmoking.tistory.com/)
-- 천혜지 (CRM 지망/3주차까지 참여) [블로그](https://cheonhyeji99.tistory.com/)
-- 이유림 (데이터분석가 지망/4주차까지 참여) [블로그](https://rimi01.tistory.com/)
+- 김준모(데이터분석가 지망/~1주차까지) [블로그](https://junmoking.tistory.com/)
+- 천혜지(CRM 지망/~3주차까지) [블로그](https://cheonhyeji99.tistory.com/)
+- 이유림(데이터분석가 지망/~4주차까지) [블로그](https://rimi01.tistory.com/)
 
 ## 스터디 개요
 - 활용 도서: [A/B 테스트(론 코하비.다이앤 탕.야 쉬 지음)](https://product.kyobobook.co.kr/detail/S000060625360)
