@@ -78,7 +78,7 @@
   - 10 발표자: 주은진-[발표자료](https://dunedine.tistory.com/24), [발표영상](https://drive.google.com/file/d/19FmxJXTGUUla_sefbaQiFATgY4o-hJjz/view?usp=sharing)
   - 11 발표자: 권미정-[발표자료](https://mjrecord.tistory.com/45), [발표영상](https://drive.google.com/file/d/1wK_mQ4a6jijTFlc4WmjpFMXA8sX1yL8f/view?usp=sharing)
   - 참여자: 권미정, 주은진, 최성훈, 최승현
-  - 퀴즈: 최성훈+3, 최승현+3
+  - 퀴즈: 최성훈+3, 최승현+3 
 
 ### 7주차(23.08.22)
 - 교재: 4부 12 클라이언트 측 실험, 13 계측, 14 랜덤화 단위 선택
