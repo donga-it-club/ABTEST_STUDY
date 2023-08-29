@@ -93,7 +93,7 @@
   - 15~16 발표자: 최성훈-[발표자료1](https://dtandard.tistory.com/47), [발표자료2](https://dtandard.tistory.com/48), [발표영상](https://drive.google.com/file/d/1yvVh4rUQH6oDXJjVKZrGfOPI3S__ANhH/view?usp=sharing) 
   - 17 발표자: 권미정-[발표자료](https://mjrecord.tistory.com/46), [발표영상](https://drive.google.com/file/d/1Gdj82I4m2hnghTPYI1gQMy4e-KqH-Rzg/view?usp=sharing) 
   - 참여자: 권미정, 주은진, 최성훈, 최승현 
-  - 퀴즈: 최성훈+2, 주은진+1, 권미정+2, 최승현+1 
+  - 퀴즈: 최성훈+2, 주은진+1, 권미정+2, 최승현+1  
 
 ### 9주차(23.09.05)
 - 교재: 5부 18 분산 추정 및 민감도 개선:함정 및 해결책, 19 A/A 테스트
