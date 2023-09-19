@@ -104,9 +104,10 @@
 
 ### 10주차(23.09.19)
 - 교재: 5부 20 민감도 향상을 위한 트리거링, 21 샘플 비율 불일치 및 기타 신뢰 관련 가드레일 지표
-  - 20 발표자: 권미정
-  - 21 발표자: 최승현
-  - 퀴즈:
+  - 20 발표자: 권미정-[발표자료](https://mjrecord.tistory.com/48), [발표영상](https://drive.google.com/file/d/1K91Qc4CTAKF5pb9NZegx1laaFxk80WZ-/view?usp=sharing) 
+  - 21 발표자: 최승현-[발표자료](https://vulter3653.tistory.com/77), [발표영상](https://drive.google.com/file/d/1ldzOAaMjuhsSQQ8WLtCsmKIkRJtcTB8f/view?usp=sharing) 
+  - 참여자: 권미정, 주은진, 최성훈, 최승현 
+  - 퀴즈: 최승현+2, 최성훈+1, 주은진+3 
 
 ### 11주차(23.09.26)
 - 교재: 5부 22 실험 간의 누출 및 간섭, 23 장기 실험효과 측정
