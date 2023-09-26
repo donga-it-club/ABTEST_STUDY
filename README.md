@@ -111,7 +111,9 @@
 
 ### 11주차(23.09.26)
 - 교재: 5부 22 실험 간의 누출 및 간섭, 23 장기 실험효과 측정
-  - 22 발표자: 주은진
-  - 23 발표자: 최성훈 
-  - 퀴즈:
+  - 22 발표자: 주은진-[발표자료](https://dunedine.tistory.com/26), [발표영상](https://drive.google.com/file/d/12n46KtgqK08en7U4VJXsYzbnEP_LKzM_/view?usp=sharing) 
+  - 23 발표자: 최성훈-[발표자료](https://dtandard.tistory.com/49), [발표영상](https://drive.google.com/file/d/1ueglHBTWn4OibUrn-oWwVAIeZXtmdm1N/view?usp=sharing) 
+  - 참여자: 권미정, 주은진, 최성훈, 최승현
+  - 퀴즈: 권미정+3, 최승현+1, 주은진+2
+  - 퀴즈 정답 최종 결과: 최승현 17, 주은진 16, 최성훈 12, 권미정 8 
  
